@@ -1,2 +1,2 @@
 # hello-python
-hey you can coding anywhere
+hey you can coding python now
